@@ -40,7 +40,7 @@ Stocks table:
 | Corona Masks  | Sell      | 10            | 10000  |
 +---------------+-----------+---------------+--------+
 
-Result table:
+Result table
 +---------------+-------------------+
 | stock_name    | capital_gain_loss |
 +---------------+-------------------+
